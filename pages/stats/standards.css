@@ -1,0 +1,48 @@
+/*Color variables*/
+
+.guardia-bg {
+    background: #8FBBEF;
+}
+
+.aventureros-bg {
+    background: #47B65F;
+}
+
+.otros-bg {
+    background: #E28FEF;
+}
+
+.antiheroes-bg {
+    background: #8F8FEF;
+}
+
+.villanos-bg {
+    background: #EF8F8F;
+}
+
+/*Personal classes*/
+
+.bg {
+    font-size: 24px;
+}
+
+
+.md {
+    font-size: 20px;
+}
+
+.sm {
+    font-size: 18px;
+}
+
+/*Normal*/
+
+img {
+    border-radius: 1080px;
+    width: 85px;
+}
+
+hr {
+    border-radius: 24px;
+    border: none;
+}
